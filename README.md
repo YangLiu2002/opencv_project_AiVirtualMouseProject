@@ -1,1 +1,2 @@
 # opencv_project_AiVirtualMouseProject
+基于opencv-python手部识别项目
